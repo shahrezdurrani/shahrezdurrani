@@ -1,5 +1,6 @@
 ## Hey there!
 My name is Shahrez, and I'm currently studying Chemical Engineering at UC Santa Barbara. 
+You can email me at me@shahrezdurrani.com!
 
 <!--
 **shahrezdurrani/shahrezdurrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
